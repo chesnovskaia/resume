@@ -1,0 +1,27 @@
+body {
+    background-color: #F7ECDE;
+}
+
+table,th,td {
+    border: rgb(250, 217, 156) 3px solid ;
+    border-radius:2px;
+    border-collapse: collapse;/* Убираем двойные линии между ячейками */
+}
+
+.heading-top {
+    color: dimgray;
+    font-size: 30px;
+}
+
+.heading-middle {
+    color: dimgray;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.par {
+    color: #52616b;
+    font-size: 18px;
+}
